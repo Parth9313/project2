@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", serif;
+    /* background-color: rgb(168, 36, 191); */
+    
+}
+#navbg{
+    margin-right: 8px;
+    background-color: rgb(168, 36, 191);
+}
+#hom{
+    font-size: 18px;
+    color: white;
+}
+#hom:hover{
+  
+  color: black;
+  background-color: aliceblue;
+  border-radius: 3px;
+}
+#home{
+    margin-bottom: 110px;
+}
+
+#main{
+    margin-right: 8px;
+    background-color: rgb(168, 36, 191);
+    border-bottom-right-radius:100px ;
+}
+#btn{
+    margin-left: 300px;
+    background-color: orange;
+    color: aliceblue;
+}
+#sideim{
+    margin-top: 5px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#cenbtn{
+    font-size: 18px;
+    padding: 10px 30px;
+    margin-left: 250px;
+    background-color: rgba(204, 0, 255, 0.959);
+    color: white;
+}
+#icon{
+    width: 25px;
+    
+}
+#logo{
+   margin-top: 20px;
+   margin-left: 60px; 
+}
+#services{
+    margin-top: 250px;
+    margin-bottom: 200px;
+}
+#Aboutus{
+    margin-right: 8px;
+    background-color: rgb(137, 0, 222);
+    border-top-left-radius: 200px;
+    border-bottom-right-radius: 9%;
+     
+}
+#butt{
+    margin-top: 13px;
+    padding: 10px 23px;
+    font-size: 17px;
+    background-color: orange;
+    color: aliceblue;
+}
+
